@@ -77,3 +77,18 @@
     }
   }
 }
+
+.about-icons-container {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.about-individual-icon {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon {
+  font-size: 25px;
+}
